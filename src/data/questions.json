@@ -1,0 +1,44 @@
+{
+  "age_8": {
+    "math": [
+      { "id": "m1", "type": "choice", "question": "10보다 5 큰 수는 무엇일까요?", "options": ["12", "15", "20", "5"], "answer": "15" },
+      { "id": "m2", "type": "story", "storyText": "지안이네 반 친구들이 소풍을 갔어요. 남자 친구 10명과 여자 친구 12명이 버스에 탔습니다.", "question": "버스에 탄 친구들은 모두 몇 명일까요?", "options": ["10명", "12명", "20명", "22명"], "answer": "22명" },
+      { "id": "m3", "type": "listen", "question": "다음 숫자를 듣고 적어보세요.", "ttsText": "칠십 이", "answer": "72" },
+      { "id": "m4", "type": "choice", "question": "시계의 긴 바늘이 12, 짧은 바늘이 3을 가리키면 몇 시일까요?", "options": ["12시", "3시", "3시 12분", "6시"], "answer": "3시" },
+      { "id": "m5", "type": "write", "question": "10 - 2 는 얼마일까요? 숫자로 적어보세요.", "answer": "8" },
+      { "id": "m6", "type": "story", "storyText": "다람쥐가 도토리를 15개 모았어요. 그 중에서 배가 고파서 3개를 먹었답니다.", "question": "이제 다람쥐에게 남은 도토리는 몇 개일까요? 숫자로 적어보세요.", "answer": "12" },
+      { "id": "m7", "type": "choice", "question": "가장 큰 수는 어느 것인가요?", "options": ["45", "54", "39", "49"], "answer": "54" },
+      { "id": "m8", "type": "listen", "question": "선생님이 부르는 두 숫자를 더해보세요.", "ttsText": "십 더하기 칠", "answer": "17" }
+    ],
+    "korean": [
+      { "id": "k1", "type": "choice", "question": "다음 중 올바른 맞춤법은?", "options": ["설겆이", "설거지", "설꺼지", "설거치"], "answer": "설거지" },
+      { "id": "k2", "type": "story", "storyText": "비가 오는 날, 달팽이가 나뭇잎 위에서 천천히 기어가고 있었어요. 개구리가 폴짝 뛰어와 인사했어요. '안녕! 달팽이야.'", "question": "이 이야기에서 나뭇잎 위를 기어가는 동물은 누구인가요?", "options": ["개구리", "거북이", "달팽이", "지렁이"], "answer": "달팽이" },
+      { "id": "k3", "type": "listen", "question": "소리를 듣고 똑같이 받아 적어보세요.", "ttsText": "나는 학교에 갑니다", "answer": "나는 학교에 갑니다" },
+      { "id": "k4", "type": "listen", "question": "인사말을 듣고 똑같이 적어보세요.", "ttsText": "안녕하세요 만나서 반갑습니다", "answer": "안녕하세요 만나서 반갑습니다" },
+      { "id": "k5", "type": "choice", "question": "반대말이 바르게 짝지어진 것은?", "options": ["크다 - 작다", "많다 - 크다", "길다 - 높다", "오다 - 가깝다"], "answer": "크다 - 작다" },
+      { "id": "k6", "type": "story", "storyText": "바람이 쌩쌩 부는 겨울입니다. 호수 위는 단단한 얼음으로 덮여 있어서 썰매를 타기 아주 좋습니다.", "question": "위 글의 계절은 언제인가요? 적어보세요.", "answer": "겨울" },
+      { "id": "k7", "type": "listen", "question": "소리를 듣고 적어보세요.", "ttsText": "우유", "answer": "우유" },
+      { "id": "k8", "type": "choice", "question": "'가방'에 들어있는 글자가 아닌 것은?", "options": ["가", "방", "나", "없음"], "answer": "나" }
+    ],
+    "english": [
+      { "id": "e1", "type": "choice", "question": "사과는 영어로 무엇일까요?", "options": ["Banana", "Apple", "Grape", "Melon"], "answer": "Apple" },
+      { "id": "e2", "type": "story", "storyText": "Look at the farm! I see a big pink pig. It says 'Oink, Oink!'. The pig is eating an apple.", "question": "농장에 있는 동물은 무슨 색인가요?", "options": ["Red", "Pink", "Blue", "Black"], "answer": "Pink" },
+      { "id": "e3", "type": "write", "question": "알파벳 'd'의 대문자를 적어보세요.", "answer": "D" },
+      { "id": "e4", "type": "write", "question": "개는 영어로 무엇일까요? 영단어로 적어보세요.", "answer": "DOG" },
+      { "id": "e5", "type": "choice", "question": "빨간색은 영어로 무엇일까요?", "options": ["Blue", "Red", "Yellow", "Green"], "answer": "Red" },
+      { "id": "e6", "type": "story", "storyText": "Hello! My name is Jian. I am 8 years old. I like cats.", "question": "지안이는 무엇을 좋아하나요? 영어 대문자로 적어보세요.", "answer": "CATS" },
+      { "id": "e7", "type": "listen", "question": "단어를 듣고 한국어 뜻을 고르세요.", "ttsText": "Water", "answer": "물" },
+      { "id": "e8", "type": "choice", "question": "다음 중 동물이 아닌 것은?", "options": ["Pig", "Desk", "Lion", "Bear"], "answer": "Desk" }
+    ],
+    "creative": [
+      { "id": "c1", "type": "write", "question": "만약에 내가 투명인간이 된다면 가장 먼저 무엇을 하고 싶나요?", "answer": "자유답변" },
+      { "id": "c2", "type": "story", "storyText": "깊은 바닷속에 인어공주가 살고 있어요. 어느 날 바다 위로 올라가 보았더니, 커다란 배가 지나가고 있었답니다.", "question": "인어공주가 배를 보고 처음으로 한 생각은 무엇이었을까요?", "options": ["무섭다 숨어야지", "저기 타보고 싶다", "노래를 불러줄까?", "물고기인 줄 알았다"], "answer": "자유답변" },
+      { "id": "c3", "type": "choice", "question": "하늘을 나는 자동차가 있다면 무슨 색으로 칠하고 싶나요?", "options": ["빨간색", "파란색", "무지개색", "반짝이색"], "answer": "자유답변" },
+      { "id": "c4", "type": "write", "question": "만약에 동물들과 말을 할 수 있다면, 강아지에게 가장 먼저 무슨 질문을 할까요?", "answer": "자유답변" },
+      { "id": "c5", "type": "listen", "question": "다음 소리를 듣고 어떤 동물이 떠오르는지 적어보세요.", "ttsText": "어흥! 쿵쿵쿵!", "answer": "사자" },
+      { "id": "c6", "type": "write", "question": "외계인을 만났어요! 어떻게 인사할 건가요? 상상해서 적어보세요.", "answer": "자유답변" },
+      { "id": "c7", "type": "write", "question": "구름을 만질 수 있다면 어떤 느낌일까요?", "answer": "자유답변" },
+      { "id": "c8", "type": "choice", "question": "타임머신이 있다면 언제가 제일 가보고 싶나요?", "options": ["공룡 시대", "미래 도시", "조선 시대", "우주 탄생"], "answer": "자유답변" }
+    ]
+  }
+}
